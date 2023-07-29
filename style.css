@@ -169,6 +169,7 @@ background: green;
 .Info {
   float: left;
   padding-left: 10px;
+  width: 50%;
 }
 
 .Gaudante {
