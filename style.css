@@ -407,4 +407,8 @@ border-radius: 0 0 15px 15px !important;
   color: red;
 }
 
+#head {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 }
