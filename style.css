@@ -403,7 +403,7 @@ border-radius: 0 0 15px 15px !important;
 }
 
 ::placeholder {
-  color: lightgray;
+  color: red;
 }
 
 }
