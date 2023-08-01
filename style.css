@@ -402,8 +402,8 @@ border-radius: 0 0 15px 15px !important;
 	margin-bottom: 15px !important;
 }
 
-#text {
-  color: white;
+::placeholder {
+  color: lightgray;
 }
 
 }
