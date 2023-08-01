@@ -1,0 +1,115 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay", "Wassup", "What's up"],
+     "responses": ["Hello", "Hi", "Hi there"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+    },
+    {"tag": "about",
+     "patterns": ["Who are you?", "What are you?", "Who you are?" ],
+     "responses": ["I'm Chef, your bot assistant", "I'm Chef, an Artificial Intelligent bot"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["You can call me Chef.", "I'm Chef!", "Just call me Chef"]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+    "responses": ["Tell me, how can I assist you?", "Tell me your problem so I can assist you", "Yes sure, how can I support you?"]
+    },
+    {"tag": "kobeitalian",
+    "patterns": ["I need to find a italian restaurant in kobe", "what italian restaraunt do you recommend in Kobe?", "which is the best italian restaraunt in Kobe"],
+    "responses": ["All Italian restauraunts in Kobe are great! Here is a list of Italian restaurants in Kobe: Elefante, Gaudante, Laraceto, Mona Lisa, Mont Dor, Nishioka, Pacific Oriental Hotel, Quarto, Ripple, Salvatore, Sienna, Tarna Forno, and Vin Vino. If you want more details, click Cuisines on the top, click Italian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobethai",
+    "patterns": ["I need to find a thai restaurant in kobe", "what thai restaraunt do you recommend in Kobe?", "which is the best thai restaraunt in Kobe", "pad thai", "khao pad", "red curry"],
+    "responses": ["Thai food is my favorite! Here is a list of thai restaurants in Kobe: Ban Thai Ashiya, Ban Thai Market, and Ban Thai Sannomiya. If you want more details, click Cuisines on the top, click Thai, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobeindian",
+    "patterns": ["I need to find a indian restaurant in kobe", "what indian restaraunt do you recommend in Kobe?", "which is the best indian restaraunt in Kobe"],
+    "responses": ["I love Indian food, especially Mango Lassi! Here is a list of Indian restaurants in Kobe: Aarti, Raja, Kusum, and The India Club. If you want more details, click Cuisines on the top, click Indian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobemexican",
+    "patterns": ["I need to find a mexican restaurant in kobe", "what mexican restaraunt do you recommend in Kobe?", "which is the best mexican restaraunt in Kobe", "nachos", "sour cream", "gaucamole", "salsa", "quesadilla", "quesadillas", "tostadas"],
+    "responses": ["Nachos are amazing! Here is a list of Mexican restaurants in Kobe: Crazy Burrito Sannomiya, Crazy Burrito Rokko, and El Pancho (Osaka). If you want more details, click Cuisines on the top, click Mexican, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobejapanese",
+    "patterns": ["I need to find a japanese restaurant in kobe", "what japanese restaraunt do you recommend in Kobe?", "which is the best japanese restaraunt in Kobe", "yakisoba", "okonomiyaki", "sobamishi", "edamame", "modanyaki"],
+    "responses": ["The best Japanese food is from Japan! Here is a list of Japanese restaurants in Kobe: Kamonte, Kamonte Honten, and Chokonomiyaki. If you want more details, click Cuisines on the top, click Japanese, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobechinese",
+    "patterns": ["I need to find a chinese restaurant in kobe", "what chinese restaraunt do you recommend in Kobe?", "which is the best chinese restaraunt in Kobe", "mapo", "mabu dofu", "dan dan noodles", "soba", "lettuce wrap", "dumpling", "dumplings"],
+    "responses": ["Sadly only one Chinese restaurant! Here is a list of Chinese restaurants in Kobe: Xin Lin. If you want more details, click Cuisines on the top, click Chinese, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobepizza",
+    "patterns": ["I need to find a pizza in kobe", "which  restaraunt do you recommend for pizza in Kobe?", "where is the best pizza in Kobe", "margerita", "pomodore", "salad pizza", "quatro formaggio"],
+    "responses": ["Pizza late at night is the best! Here is a list of restaurants that have pizza in Kobe: Elefante, Gaudante, Laraceto, Mona Lisa, Mont Dor, Nishioka, Quarto, Ripple, Salvatore, Sienna, Tarna Forno, and Vin Vino. If you want more details, click Cuisines on the top, click Italian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobepasta",
+    "patterns": ["I need to find a pasta in kobe", "which  restaraunt do you recommend for pasta in Kobe?", "where is the best pasta in Kobe", "rose", "arrabiata", "penne", "spaghetti", "genovese"],
+    "responses": ["Rose is my favorite! Here is a list of restaurants that have pasta in Kobe: Elefante, Gaudante, Laraceto, Mona Lisa, Mont Dor, Nishioka,  Oriental, Quarto, Ripple, Salvatore, Sienna, Tarna Forno, and Vin Vino. If you want more details, click Cuisines on the top, click Italian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobesalad",
+    "patterns": ["I need to find salad in kobe", "which  restaraunt do you recommend for salad in Kobe?", "where is the best salad in Kobe"],
+    "responses": ["Salad with olives are great! Here is a list of restaurants that have salad in Kobe: Elefante, Gaudante, Laraceto, Mona Lisa, Mont Dor, Nishioka, Oriental, Ripple, Salvatore, Sienna, and Tarna Forno. If you want more details, click Cuisines on the top, click Italian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobesoup",
+    "patterns": ["I need to find soup in kobe", "which  restaraunt do you recommend for soup in Kobe?", "where is the best soup in Kobe", "tomato soup", "pumpkin soup"],
+    "responses": ["Hot soup is great! Here is a list of restaurants that have soup in Kobe: Gaudante, Ripple, and Sienna. If you want more details, click Cuisines on the top, click Italian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobecalzone",
+    "patterns": ["I need to find calzone in kobe", "which  restaraunt do you recommend for calzone in Kobe?", "where is the best calzone in Kobe"],
+    "responses": ["Hot calzone is awesome! Here is a list of restaurants that have calzone in Kobe: Mont Dor. Hopefully in the future, more restraunts have it. If you want more details, click Cuisines on the top, click Italian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobebruschetta",
+    "patterns": ["I need to find bruschetta in kobe", "which  restaraunt do you recommend for bruschetta in Kobe?", "where is the best bruschetta in Kobe"],
+    "responses": ["Brushetta is a great appetizer! Here is a list of restaurants that have bruschetta in Kobe: Mont Dor and Sienna. If you want more details, click Cuisines on the top, click Italian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobeindianall",
+    "patterns": ["I need to find roti in kobe", "which  restaraunt do you recommend for roti in Kobe?", "where is the best roti in Kobe", "chapati" ],
+    "responses": ["Roti/Chapati matches well with everything! Here is a list of restaurants that have roti/chapati in Kobe: Aarti Kitano, Kusum, Raja and The India Club. If you want more details, click Cuisines on the top, click Indian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobeartiraja",
+    "patterns": ["I need to find channa masala in kobe", "which  restaraunt do you recommend for channa masala in Kobe?", "where is the best channa masala in Kobe", "samosa", "naan", "north indian" ],
+    "responses": ["Those dishes are great! Here is a list of restaurants that have that dish in Kobe: Aarti Kitano and Raja. If you want more details, click Cuisines on the top, click Indian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobekusum",
+    "patterns": ["I need to find gujrati food in kobe", "which  restaraunt do you recommend for gujrati food in Kobe?", "where is the best gujrati food in Kobe", "thali" ],
+    "responses": ["Gujrati food is a classic sub-cuisine! Here is a list of restaurants that have Gujrati food in Kobe: Kusum. If you want more details, click Cuisines on the top, click Indian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobepaneer",
+    "patterns": ["I need to find paneer food in kobe", "which  restaraunt do you recommend for paneer food in Kobe?", "where is the best paneer food in Kobe", "pakora", "makhenwala", "kofta", "butter", "tikka masala"],
+    "responses": ["Soft paneer fits with everything! Here is a list of restaurants that have paneer in Kobe: Aarti Kitano, Raja and The India Club. If you want more details, click Cuisines on the top, click Indian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobeaarti",
+    "patterns": ["I need to find karela in kobe", "which  restaraunt do you recommend for karela food in Kobe?", "where is the best karela in Kobe", "bhindi"],
+    "responses": ["That is a great dish! Here is a list of restaurants that have that dish in Kobe: Aarti Kitano. If you want more details, click Cuisines on the top, click Indian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobeindiaclub",
+    "patterns": ["I need to find south indian food in kobe", "which  restaraunt do you recommend for south indian food in Kobe?", "where is the best south indian food in Kobe", "bhel", "dahi puri", "pani", "gol gupta", "dosa", "sambar", "idli"],
+    "responses": ["That is a great dish! Here is a list of restaurants that have that dish in Kobe: The India Club. If you want more details, click Cuisines on the top, click Indian, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobeburrito",
+    "patterns": ["I need to find a burrito in kobe", "which restaraunt has the best burritos in Kobe", "where is the burrito in Kobe"],
+    "responses": ["Burrito are my favorite! Here is a list of restaurants that have burritos in Kobe: Crazy Burrito Sannomiya and Crazy Burrito Rokko. If you want more details, click Cuisines on the top, click Mexican, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobespringrolls",
+    "patterns": ["I need to find spring rolls in kobe", "which restaraunt has the best spring rolls in Kobe", "where is the spring rolls in Kobe"],
+    "responses": ["Spring rolls are my favorite! Here is a list of restaurants that have spring rolls in Kobe: Ban Thai Ashiya, Ban Thai Market, Ban Thai Sannomiya, and Xin Lin. If you want more details, click Cuisines on the top, click Thai or Chinese, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "kobetofu",
+    "patterns": ["I need to find tofu in kobe", "which restaraunt has the best tofu in Kobe", "where is the tofu in Kobe"],
+    "responses": ["Tofu from Kobe is amazing! Here is a list of restaurants that have spring rolls in Kobe: Chokonomiyaki, Kamonte, Kamonte Honten, and Xin Lin. If you want more details, click Cuisines on the top, click Japanese or Chinese, and click the image of the restaraunt you like. Details such as location, menu, and timing will be shown."]
+    },
+    {"tag": "fail",
+     "patterns": [""],
+     "responses": ["Sorry, I would love to help you but we don't have results. It's possible you misspelt. If not, try searching for something else or click cuisines on the top to find restauraunts that you woud like."]
+    }
+]
+}
