@@ -68,3 +68,5 @@ def get_response(intents_list, intents_json):
 
 if _name_ == '__main__':
     app.run(debug=True)
+
+msg = "hi"
