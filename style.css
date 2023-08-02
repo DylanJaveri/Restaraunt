@@ -9,6 +9,11 @@ html {
   border-style: solid;
   border-color: black}
 
+.prebot {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 img:hover{
   filter: brightness(50%);  
 }
