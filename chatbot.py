@@ -15,10 +15,10 @@ lemmatizer = WordNetLemmatizer()
 intents = json.loads(open('intents.json').read())
 
 @app.route('/')
-def home():
+def index():
     return render_template('index.html')
 
-@app.route('/get')
+@app.route('/get', methods=["GET", "POST"])
 def get_bot_response():
     message = request.args.get('msg')
     ints = predict_class(message, model)
