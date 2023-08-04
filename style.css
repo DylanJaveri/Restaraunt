@@ -186,7 +186,7 @@ background: green;
 }
 
 .space {
-  margin-top: calc(5px);
+  margin-top: calc(45% + 5px);
 }
 
 .Info_list {
