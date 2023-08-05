@@ -95,6 +95,7 @@ form.example::after {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 .tile {
@@ -426,8 +427,6 @@ border-radius: 0 0 15px 15px !important;
 .smallspace {
 	margin-top: 5px;
 }
-
-a { color: inherit; } 
 
 .info {
 	color: black;
