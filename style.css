@@ -426,3 +426,5 @@ border-radius: 0 0 15px 15px !important;
 .smallspace {
 	margin-top: 5px;
 }
+
+a { color: inherit; } 
