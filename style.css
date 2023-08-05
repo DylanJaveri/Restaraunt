@@ -431,3 +431,8 @@ border-radius: 0 0 15px 15px !important;
 .info {
 	color: black;
 }
+
+iframe {
+	width: 45%;
+	height: 45%;
+}
