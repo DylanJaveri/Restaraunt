@@ -440,5 +440,6 @@ iframe {
 
 .menu {
 	width: 45%;
-	margin-left: 3px;
+	height: auto;
+	margin-left: 20px;
 }
