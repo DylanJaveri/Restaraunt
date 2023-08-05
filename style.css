@@ -428,3 +428,7 @@ border-radius: 0 0 15px 15px !important;
 }
 
 a { color: inherit; } 
+
+.info {
+	color: black;
+}
