@@ -441,7 +441,7 @@ iframe {
 .menu {
 	width: 45%;
 	height: auto;
-	margin-left: 20px;
+	padding-left: 20px;
 	float: left;
 }
 
@@ -450,5 +450,5 @@ iframe {
 }
 
 .menuspace {
-	margin-top: calc(45% + 1px);
+	margin-top: calc(45%);
 }
