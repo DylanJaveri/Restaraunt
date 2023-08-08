@@ -452,3 +452,7 @@ iframe {
 .menuspace {
 	margin-top: calc(45%);
 }
+
+.sizing {
+	max-width: 768px;
+}
