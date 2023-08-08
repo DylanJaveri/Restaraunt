@@ -443,3 +443,7 @@ iframe {
 	height: auto;
 	margin-left: 20px;
 }
+
+.link {
+	color: -webkit-link;
+}
