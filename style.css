@@ -442,6 +442,7 @@ iframe {
 	width: 45%;
 	height: auto;
 	margin-left: 20px;
+	float: left;
 }
 
 .link {
