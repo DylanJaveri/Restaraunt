@@ -487,7 +487,7 @@ iframe {
 
 /* Media query for computers */
 @media (min-width: 768px) {
-    .image-container img {
+    .cuisinepage img {
         width: calc(33.33% - 10px);
         margin: 5px;
         max-width: 100%;
@@ -496,7 +496,7 @@ iframe {
 
 /* Media query for phones */
 @media (max-width: 767px) {
-    .image-container img {
+    .cuisinepage img {
         width: calc(100% - 10px);
         margin: 5px;
         max-width: 100%;
