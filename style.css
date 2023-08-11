@@ -498,7 +498,7 @@ iframe {
 /* Media query for phones */
 @media (max-width: 767px) {
     #cuisinepage img {
-        width: calc(100% - 10px);
+        width: calc(47% - 1px);
         margin: 5px;
         max-width: 100%;
     }
