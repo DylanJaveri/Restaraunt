@@ -467,3 +467,7 @@ iframe {
     float: left;
 	margin-top: 0px;
 }
+
+#cuisinepage {
+	background-image: linear-gradient(45deg, #FF5A00, #FFAE00);
+}
