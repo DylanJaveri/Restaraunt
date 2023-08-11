@@ -494,6 +494,15 @@ iframe {
         margin: 5px;
         max-width: 100%;
     }
+	.italian {
+		width: 200px;
+	}
+	.index {
+		margin-left: 20%;
+	}
+	.space {
+		margin-top: 207px;
+	}
 }
 
 /* Media query for phones */
