@@ -480,6 +480,7 @@ iframe {
 
 #cuisinepage img {
 	width: calc(33.33% - 10px);
+	height: auto;
     margin: 5px;
     max-width: 100%;
 }
