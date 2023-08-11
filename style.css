@@ -474,12 +474,13 @@ iframe {
 
 #cuisinepage {
 	background-image: linear-gradient(45deg, #FF5A00, #FFAE00);
+	max-width: 1031px;
 	display: flex;
 	flex-wrap: wrap;
 }
 
 #cuisinepage img {
-	width: calc(33.33% - 10px);
+	width: calc(47% - 1px);
 	height: auto;
     margin: 5px;
     max-width: 100%;
@@ -488,7 +489,7 @@ iframe {
 /* Media query for computers */
 @media (min-width: 768px) {
     #cuisinepage img {
-        width: calc(33.33% - 10px);
+        width: calc(47% - 1px);
         margin: 5px;
         max-width: 100%;
     }
