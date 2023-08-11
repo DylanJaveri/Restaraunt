@@ -124,11 +124,15 @@ background: green;
 
 .left{
  margin-left: 3px; 
+ width: 100%;
+ max-width: 604px;
 }
 
 .right{
   margin-right: 3px;
   float: right;
+  width: 100%;
+  max-width: 604px;
 }
 
 .subheading {
