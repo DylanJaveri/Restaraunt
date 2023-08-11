@@ -477,6 +477,7 @@ iframe {
 	max-width: 1031px;
 	display: flex;
 	flex-wrap: wrap;
+	height: initial;
 }
 
 #cuisinepage img {
