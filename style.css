@@ -570,3 +570,9 @@ iframe {
 		font-size: 90%;
 	}
 }
+
+@media (max-width: 360px) {
+	#size {
+		font-size: 85%;
+	}
+}
