@@ -521,3 +521,21 @@ iframe {
 		margin-top: 207px;
 	}
 }
+
+@media (max-width: 506px) {
+    .info {
+        font-size: 85%;
+    }
+}
+
+@media (max-width: 406px) {
+    .info {
+        font-size: 75%;
+    }
+}
+
+@media (max-width: 370px) {
+    .info {
+        font-size: 70%;
+    }
+}
