@@ -517,11 +517,14 @@ iframe {
 	.italian {
 		width: 200px;
 	}
-	.index {
-		margin-left: 20%;
-	}
 	.space {
 		margin-top: 207px;
+	}
+}
+
+@media (min-width: 540) {
+	.index {
+		margin-left: 20%;
 	}
 }
 
