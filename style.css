@@ -179,7 +179,7 @@ background: green;
 
 .Info {
   float: left;
-  padding-left: 10px;
+  padding-left: 17px;
   width: 50%;
 }
 
@@ -469,7 +469,8 @@ iframe {
 	width: 45%;
     height: 45%;
     float: left;
-	margin-top: 0px;
+	margin-top: 5px;
+	margin-left: 5px;
 }
 
 #cuisinepage {
@@ -495,7 +496,7 @@ iframe {
         max-width: 100%;
     }
 	#size {
-		font-size: 170%;
+		font-size: 160%;
 	}
 }
 
