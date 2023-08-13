@@ -503,6 +503,9 @@ iframe {
         margin: 5px;
         max-width: 100%;
     }
+	#size {
+		font-size: 150%;
+	}
 }
 
 @media (min-width: 434px) {
@@ -525,7 +528,7 @@ iframe {
 @media (max-width: 506px) {
     .Info {
         font-size: 85%;
-    }
+	}
 }
 
 @media (max-width: 406px) {
@@ -542,4 +545,22 @@ iframe {
 
 #restaraunt {
 	background-image: linear-gradient(45deg, #FF5A00, #FFAE00);
+}
+
+@media (max-width: 570px) {
+	#size {
+		font-size: 120%;
+	}
+}
+
+@media (max-width: 480px) {
+	#size {
+		font-size: 100%;
+	}
+}
+
+@media (max-width: 390px) {
+	#size {
+		font-size: 90%;
+	}
 }
