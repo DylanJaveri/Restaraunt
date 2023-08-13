@@ -525,7 +525,7 @@ iframe {
 	}
 }
 
-@media (min-width: 540) {
+@media (min-width: 540px) {
 	.index {
 		margin-left: 20%;
 	}
