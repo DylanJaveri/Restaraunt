@@ -523,19 +523,19 @@ iframe {
 }
 
 @media (max-width: 506px) {
-    .info {
+    .Info {
         font-size: 85%;
     }
 }
 
 @media (max-width: 406px) {
-    .info {
+    .Info {
         font-size: 75%;
     }
 }
 
 @media (max-width: 370px) {
-    .info {
+    .Info {
         font-size: 70%;
     }
 }
