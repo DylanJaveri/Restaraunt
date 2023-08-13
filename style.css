@@ -494,6 +494,9 @@ iframe {
         margin: 5px;
         max-width: 100%;
     }
+	#size {
+		font-size: 170%;
+	}
 }
 
 /* Media query for phones */
