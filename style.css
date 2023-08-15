@@ -498,6 +498,12 @@ iframe {
 	#size {
 		font-size: 160%;
 	}
+	#97 {
+		font-size: 97%;
+	}
+	#Salvatore {
+		font-size: 90%;
+	}
 }
 
 /* Media query for phones */
@@ -548,6 +554,12 @@ iframe {
     .Info {
         font-size: 70%;
     }
+	#97 {
+		font-size: 65%;
+	}
+	#Salvatore {
+		font-size: 65%;
+	}
 }
 
 #restaraunt {
