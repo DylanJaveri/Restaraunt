@@ -593,11 +593,11 @@ iframe {
 }
 
 .indexgrade {
-	background: rgb(20,36,0);
-    background: -moz-linear-gradient(45deg, rgba(20,36,0,1) 0%, rgba(53,110,9,1) 35%, rgba(1,255,0,1) 100%);
+	background: rgba(53,110,9,1);
+    /*background: -moz-linear-gradient(45deg, rgba(20,36,0,1) 0%, rgba(53,110,9,1) 35%, rgba(1,255,0,1) 100%);
     background: -webkit-linear-gradient(45deg, rgba(20,36,0,1) 0%, rgba(53,110,9,1) 35%, rgba(1,255,0,1) 100%);
     background: linear-gradient(45deg, rgba(20,36,0,1) 0%, rgba(53,110,9,1) 35%, rgba(1,255,0,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#142400",endColorstr="#01ff00",GradientType=1);		
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#142400",endColorstr="#01ff00",GradientType=1);	*/
 }
 
 .shareit {
