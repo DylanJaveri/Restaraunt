@@ -181,6 +181,7 @@ background: green;
   float: left;
   padding-left: 17px;
   width: 50%;
+  word-wrap: break-word;
 }
 
 .Gaudante {
@@ -461,7 +462,7 @@ iframe {
 	max-width: 768px;
     margin: auto;
     /*background-image: linear-gradient(45deg, #FF5A00, #FFAE00);*/
-    height: 121vh;
+    height: 131vh;
     max-height: 960px;
 }
 
@@ -498,7 +499,7 @@ iframe {
 	#size {
 		font-size: 160%;
 	}
-	#97 {
+	[id='97'] {
 		font-size: 97%;
 	}
 	#Salvatore {
@@ -554,7 +555,7 @@ iframe {
     .Info {
         font-size: 70%;
     }
-	#97 {
+	[id='97'] {
 		font-size: 65%;
 	}
 	#Salvatore {
